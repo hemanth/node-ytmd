@@ -1,7 +1,7 @@
 {
   "name": "ytmd",
   "version": "1.0.0",
-  "description": "Make YoutTube video URL markdown ready!",
+  "description": "Make YouTube video URL markdown ready!",
   "license": "MIT",
   "repository": "hemanth/ytmd",
   "bin": {

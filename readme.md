@@ -1,6 +1,6 @@
 # ytmd
 
-> Make YoutTube video URL markdown ready!
+> Make YouTube video URL markdown ready!
 
 
 ## Install
