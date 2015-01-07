@@ -1,0 +1,41 @@
+{
+  "name": "ytmd",
+  "version": "0.0.0",
+  "description": "Make YoutTube video URL markdown ready!",
+  "license": "MIT",
+  "repository": "hemanth/ytmd",
+  "bin": {
+    "ytmd": "cli.js"
+  },
+  "author": {
+    "name": "Hemanth.HM",
+    "email": "hemanth.hm@gmail.com",
+    "url": "http://h3manth.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "files": [
+    "cli.js",
+    "index.js"
+  ],
+  "keywords": [
+    "cli",
+    "bin",
+    "app",
+    "youtube",
+    "markdown",
+    "covert"
+  ],
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "dependencies": {
+    "article-title": "^1.0.1",
+    "get-youtube-id": "^0.1.3",
+    "request": "^2.51.0"
+  }
+}
